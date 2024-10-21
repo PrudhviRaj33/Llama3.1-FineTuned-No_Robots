@@ -109,18 +109,6 @@ pip install bitsandbytes
 - **Dataset:** No_Robots dataset for natural, relatable conversation.
 - **Quantization:** 4-bit inference with `bitsandbytes`.
 
-## Citation
-
-If you use this model in your research or project, please cite it as:
-
-```
-@misc{gandrothu2024llama,
-  title={LLaMA 3.1 Fine-Tuned Model: Llama3.1-FineTuned-No_Robots},
-  author={Prudhvi Raj Gandrothu},
-  year={2024},
-  url={https://huggingface.co/PrudhviRajGandrothu/Llama3.1-FineTuned-No_Robots},
-}
-```
 
 ## Contact
 
